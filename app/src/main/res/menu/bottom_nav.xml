@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tab_home" android:icon="@drawable/ic_tab_home" android:title="@string/tab_home" />
+    <item android:id="@+id/tab_flights" android:icon="@drawable/ic_tab_flights" android:title="@string/tab_flights" />
+    <item android:id="@+id/tab_stays" android:icon="@drawable/ic_tab_stays" android:title="@string/tab_stays" />
+    <item android:id="@+id/tab_umrah" android:icon="@drawable/ic_tab_umrah" android:title="@string/tab_umrah" />
+    <item android:id="@+id/tab_trips" android:icon="@drawable/ic_tab_trips" android:title="@string/tab_trips" />
+</menu>
