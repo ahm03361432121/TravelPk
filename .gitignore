@@ -1,0 +1,18 @@
+# Build output
+build/
+.gradle/
+.kotlin/
+captures/
+*.apk
+*.aab
+
+# Android Studio / IDE
+.idea/
+*.iml
+.DS_Store
+
+# Machine-specific + secrets (never commit these)
+local.properties
+keystore.properties
+*.jks
+*.keystore
